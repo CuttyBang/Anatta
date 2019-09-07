@@ -1,7 +1,7 @@
 ## Anatta Project
 
 
-Built using VueJs.
+Built with VueJs.
 
 The mock ups only show the smallest mobile layout, and the max width desktop layout,
 so I tried to bridge those as best I could - considering what I had to go on - and I straddled
@@ -19,5 +19,5 @@ Everything is mostly modular, however, I had to try and focus on what I knew was
 of me, so there are several hard coded pieces of text throughout, as well as the SVG stand-ins
 I created for the more complicated and time consuming aspects of the design.  
 
-Also, the images were not exactly conducive to recreating the design note for note, so keep that in mind.
+Also, the images were not exactly the same as the design note for note, so keep that in mind.
 The image dimensions were generally opposite of the mockup. 
