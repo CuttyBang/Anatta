@@ -9,7 +9,7 @@ so I tried to bridge those as best I could - straddling the line between intuiti
 I mainly focused on the two sizes provided, so the sizes in between are responsive only in the barest sense. 
 
 Additionally, there was A LOT to build with this, so I chose to economize my time where possible. I did so by focusing on the 
-more explicit directives laid out in the PDF, and creating SVG stand-is for the more complicated and time consuming aspects of 
+more explicit directives laid out in the PDF, and creating SVG stand-ins for the more complicated and time consuming aspects of 
 the design that were not feasible to build from scratch. 
 
 Everything is modular and component based, with certain portions of text being hardcoded, since that seemed to make the most 
